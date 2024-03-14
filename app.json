@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "esemie-invoice",
+    "slug": "esemie-invoice",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "esemie-invoice",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/font/Fellix-Bold.ttf",
+            "./assets/font/Fellix-Medium.ttf",
+            "./assets/font/Fellix-SemiBold.ttf ",
+            "./assets/font/Fellix-Regular.ttf",
+            "./assets/font/Fellix-RegularItalic.ttf"
+          ]
+        }
+      ]
+    ]
+  }
+}

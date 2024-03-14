@@ -1,0 +1,25 @@
+{
+    "company_name": "Meeveo",
+    "company_state": "Bali",
+    "company_city": "Omboué",
+    "company_country": "Indonesia",
+    "company_tel": "345 123 2580",
+    "invoice_num": "81-234-6864",
+    "invoice_bal": "$ 8.42",
+    "invoice_createdDate": "18/06/2023",
+    "invoice_dueDate": "22/10/2023",
+    "items_purchased": [
+        {
+            "product": "Jeans",
+            "price": "29.99"
+        },
+        {
+            "product": "Hp Elitebook 830 G3",
+            "price": "109.99"
+        }
+    ],
+    "customer_name": "Carmelle Castiello",
+    "customer_address": "01 Menomonie Terrace",
+    "customer_city": "Labangka Satu",
+    "customer_state": "Papua"
+}
